@@ -1,8 +1,9 @@
 {
   "name": "beyondklass_frontend",
+  "homepage": "https://bhavik0804.github.io/BeyondKlass",
   "version": "0.1.0",
   "private": true,
-  "proxy": "http://127.0.0.1:8000/api/teacher/" ,
+  "proxy": "http://127.0.0.1:8000/api/teacher/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.3.0",
@@ -18,7 +19,9 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "predeploy" : "npm run build",
+    "deploy": "gh-pages -b master -d build"
   },
   "eslintConfig": {
     "extends": [
@@ -39,6 +42,7 @@
     ]
   },
   "devDependencies": {
-    "babel-plugin-react-require": "^3.1.3"
+    "babel-plugin-react-require": "^3.1.3",
+    "gh-pages": "^4.0.0"
   }
 }
