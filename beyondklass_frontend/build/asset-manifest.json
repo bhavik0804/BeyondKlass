@@ -1,15 +1,15 @@
 {
-  "main.css": "/BeyondKlass/static/css/main.688ed213.chunk.css",
-  "main.js": "/BeyondKlass/static/js/main.f6318c23.chunk.js",
-  "main.js.map": "/BeyondKlass/static/js/main.f6318c23.chunk.js.map",
-  "static/js/1.4bb05d8f.chunk.js": "/BeyondKlass/static/js/1.4bb05d8f.chunk.js",
-  "static/js/1.4bb05d8f.chunk.js.map": "/BeyondKlass/static/js/1.4bb05d8f.chunk.js.map",
-  "static/js/2.5919aa8c.chunk.js": "/BeyondKlass/static/js/2.5919aa8c.chunk.js",
-  "static/js/2.5919aa8c.chunk.js.map": "/BeyondKlass/static/js/2.5919aa8c.chunk.js.map",
-  "runtime~main.js": "/BeyondKlass/static/js/runtime~main.ae4539e8.js",
-  "runtime~main.js.map": "/BeyondKlass/static/js/runtime~main.ae4539e8.js.map",
-  "static/css/main.688ed213.chunk.css.map": "/BeyondKlass/static/css/main.688ed213.chunk.css.map",
-  "index.html": "/BeyondKlass/index.html",
-  "precache-manifest.22186ee74646a6a8a1d3b3e4e4c41714.js": "/BeyondKlass/precache-manifest.22186ee74646a6a8a1d3b3e4e4c41714.js",
-  "service-worker.js": "/BeyondKlass/service-worker.js"
+  "main.css": "/main/beyondklass_frontend/static/css/main.688ed213.chunk.css",
+  "main.js": "/main/beyondklass_frontend/static/js/main.f6318c23.chunk.js",
+  "main.js.map": "/main/beyondklass_frontend/static/js/main.f6318c23.chunk.js.map",
+  "static/js/1.4bb05d8f.chunk.js": "/main/beyondklass_frontend/static/js/1.4bb05d8f.chunk.js",
+  "static/js/1.4bb05d8f.chunk.js.map": "/main/beyondklass_frontend/static/js/1.4bb05d8f.chunk.js.map",
+  "static/js/2.5919aa8c.chunk.js": "/main/beyondklass_frontend/static/js/2.5919aa8c.chunk.js",
+  "static/js/2.5919aa8c.chunk.js.map": "/main/beyondklass_frontend/static/js/2.5919aa8c.chunk.js.map",
+  "runtime~main.js": "/main/beyondklass_frontend/static/js/runtime~main.18031cb4.js",
+  "runtime~main.js.map": "/main/beyondklass_frontend/static/js/runtime~main.18031cb4.js.map",
+  "static/css/main.688ed213.chunk.css.map": "/main/beyondklass_frontend/static/css/main.688ed213.chunk.css.map",
+  "index.html": "/main/beyondklass_frontend/index.html",
+  "precache-manifest.283b5cb963e7d9f0389759abc0190201.js": "/main/beyondklass_frontend/precache-manifest.283b5cb963e7d9f0389759abc0190201.js",
+  "service-worker.js": "/main/beyondklass_frontend/service-worker.js"
 }

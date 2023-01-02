@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/BeyondKlass/precache-manifest.22186ee74646a6a8a1d3b3e4e4c41714.js"
+  "/main/beyondklass_frontend/precache-manifest.283b5cb963e7d9f0389759abc0190201.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/BeyondKlass/index.html", {
+workbox.routing.registerNavigationRoute("/main/beyondklass_frontend/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });

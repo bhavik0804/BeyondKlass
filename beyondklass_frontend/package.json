@@ -1,6 +1,6 @@
 {
   "name": "beyondklass_frontend",
-  "homepage": "https://bhavik0804.github.io/BeyondKlass",
+  "homepage": "https://bhavik0804.github.io/main/beyondklass_frontend/",
   "version": "0.1.0",
   "private": true,
   "proxy": "http://127.0.0.1:8000/api/teacher/",
